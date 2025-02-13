@@ -94,7 +94,7 @@ This implementation is for educational purposes. For sensitive data, please use 
 
 ## Author
 
-Kompelli Anurudh - [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Kompelli-Anurudh))
+Kompelli Anurudh - [https://github.com/Kompelli-Anurudh]
 
 ## Support
 
