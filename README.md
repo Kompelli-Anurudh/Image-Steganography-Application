@@ -2,7 +2,7 @@
 
 A modern GUI application for hiding secret messages within images using steganography techniques. Built with Python and Tkinter.
 
-![Steganography App Screenshot](outputs)
+Check out project Screenshots (here)[outputs]
 
 ## Features
 
