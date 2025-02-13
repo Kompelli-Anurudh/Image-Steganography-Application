@@ -69,15 +69,6 @@ The application uses the following techniques:
 - NumPy
 - Tkinter (included with Python)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -90,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Security Note
 
-This implementation is for educational purposes. For sensitive data, please use established encryption standards.
+This implementation is for educational purposes. For sensitive data, please use established encryption standards and it is developed with Automated GPT (Claude Sonet 3.5).
 
 ## Author
 
