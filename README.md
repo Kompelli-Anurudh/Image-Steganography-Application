@@ -2,7 +2,7 @@
 
 A modern GUI application for hiding secret messages within images using steganography techniques. Built with Python and Tkinter.
 
-![Steganography App Screenshot](screenshots/app_screenshot.png)
+![Steganography App Screenshot](outputs)
 
 ## Features
 
@@ -94,7 +94,7 @@ This implementation is for educational purposes. For sensitive data, please use 
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Kompelli Anurudh - [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Kompelli-Anurudh))
 
 ## Support
 
